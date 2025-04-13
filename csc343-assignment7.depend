@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1744556383 source:c:\users\andrew\documents\codeblocks projects\csc343-assignment7\main.cpp
+	<iostream>
+	<pthread.h>
+	<mutex>
+	<unistd.h>
+
